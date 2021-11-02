@@ -8,6 +8,7 @@ TagManager:
   - Item1
   - Item2
   - Item3
+  - Stairs
   layers:
   - Default
   - TransparentFX
@@ -27,8 +28,8 @@ TagManager:
   - Platform
   - 
   - 
-  - 
-  - 
+  - Object
+  - PlayerIgnore
   - 
   - 
   - 
